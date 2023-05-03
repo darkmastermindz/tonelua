@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "sumneko.lua",
+        "keyring.lua",
+        "sonarsource.sonarlint-vscode"
+    ]
+}
